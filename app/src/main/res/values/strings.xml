@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskCardView</string>
+    <string name="no_internet">Oops no internet connection</string>
+    <string name="new_scientist">New Scientist</string>
+    <string name="article_image">article cover image</string>
+    <string name="add_toCalendar">ADD TO CALENDAR</string>
+    <string name="read_more">READ MORE</string>
+</resources>

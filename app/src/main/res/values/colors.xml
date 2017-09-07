@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#ffeb3b</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="TransparentGray">#80101010</color>
+    <color name="LightGray">#99DCDCDC</color>
+    <color name="orange">#FFA500</color>
+    <color name="royal_blue">#3A5FCD</color>
+    <color name="tagBGColor">#9fff</color>
+    <color name="black_p50">#7f000000</color>
+
+</resources>
